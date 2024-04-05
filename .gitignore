@@ -4,3 +4,4 @@
 *.blg
 *.toc
 *.gz
+__pycache__
